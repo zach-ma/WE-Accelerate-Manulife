@@ -1,0 +1,17 @@
+{
+  "name": "jm-modernjs",
+  "version": "1.0.0",
+  "description": "modernjs code-along",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node src/index.js",
+    "sanjay": "node src/index.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "esm": "^3.2.25",
+    "node-fetch": "^2.6.1"
+  }
+}
